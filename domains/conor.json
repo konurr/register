@@ -1,0 +1,10 @@
+{
+    "description": "Personal Github Pages Site",
+    "repo": "https://github.com/konurr/konurr.github.io",
+    "owner": {
+      "username": "konurr"
+    },
+    "record": {
+      "CNAME": "konurr.github.io"
+    }
+  }
